@@ -1,0 +1,36 @@
+header {
+    
+    color: white;
+    text-align: center;
+    padding: 20px;
+}
+body{
+    background-image: url(clase.png);
+    background-size: cover;}
+p {
+    
+    font-size: 16px;
+    margin: 20px;
+    color: rgb(255, 255, 255);
+    
+
+}
+
+button {
+    background-color: green;
+    color: white;
+    border: none;
+    border-radius: 5px;
+    padding: 10px 20px;
+    cursor: pointer;
+}
+
+button:hover {
+    background-color: rgb(100, 0, 0);
+}
+h1{
+    color: black;
+}
+h2{
+    margin-left: 910px;
+}
